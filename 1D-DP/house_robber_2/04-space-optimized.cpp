@@ -23,7 +23,7 @@ int rob(vector<int>& nums) {
 }
 
 int main() {
-    vector<int> nums = {2, 3, 2,7,6};
+    vector<int> nums = {2, 3, 2,7,6,7};
     cout << "Max robbed = " << rob(nums) << endl;
     return 0;
 }
